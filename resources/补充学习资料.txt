@@ -1,0 +1,15 @@
+DEX加固
+涉及知识点：DEX文件格式、动态加载技术、Application的执行流程、APK文件组织
+https://blog.csdn.net/androidsecurity/article/details/8678399
+https://blog.csdn.net/androidsecurity/article/details/8809542
+https://blog.csdn.net/jiangwei0910410003/article/details/48415225
+
+vmp加固
+涉及知识点：DEX指令格式、虚拟机执行流程
+https://cloud.tencent.com/developer/article/1180984
+https://geneblue.github.io/2019/09/13/Android%20DEX-VMP%20%E8%99%9A%E6%8B%9F%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/
+
+Android Linker与SO加壳技术
+涉及知识点：ELF文件格式、 SO 文件的装载和链接过程
+https://slab.qq.com/news/tech/1496.html
+https://bbs.pediy.com/thread-226667.htm
